@@ -7,8 +7,7 @@ You're sections headers will be used to reference location of destination.
 
 - [Course Description](#course-description)
 - [What you'll learn](#What-you-will-learn)
-- [References](#references)
-- [License](#license)
+- [Learning](#learning)
 - [Author Info](#author-info)
 
 
@@ -30,6 +29,12 @@ Pуthоn iѕ a high-level programming lаnguаgе. It iѕ quite еаѕу tо lе
 - Learn how to use conditional statements
 - Learn how to use loops and create functions
 - Understand the Numpy Module
+
+---
+
+## Learning
+
+1. [Variable,identifier & Keywords](./Python/variable.py)
 
 
 ---
