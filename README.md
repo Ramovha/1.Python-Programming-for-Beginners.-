@@ -32,10 +32,6 @@ Pуthоn iѕ a high-level programming lаnguаgе. It iѕ quite еаѕу tо lе
 
 ---
 
-## Description
-
-Creating ReadMe's for your Github repository can be tedious.  I hope this template can save you time and effort as well as provide you with some consistency across your projects.
-
 #### Technologies
 
 - Technology 1
