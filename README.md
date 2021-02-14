@@ -34,7 +34,7 @@ Pуthоn iѕ a high-level programming lаnguаgе. It iѕ quite еаѕу tо lе
 
 ## Learning
 
-1. [Variable,identifier & Keywords](./1.Python-Programming-for-Beginners.-/Python/1.variable.py)
+1. [Variable,identifier & Keywords](https://github.com/Ramovha/1.Python-Programming-for-Beginners.-/blob/main/Python/1.variable.py)
 
 
 ---
