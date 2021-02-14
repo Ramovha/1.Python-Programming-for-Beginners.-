@@ -4,7 +4,7 @@
 You're sections headers will be used to reference location of destination.
 
 - [Course Description](#course-description)
-- [What you'll learn](#What-you'll-learn)
+- [What you'll learn](#what-you'll-learn)
 - [References](#references)
 - [License](#license)
 - [Author Info](#author-info)
