@@ -32,7 +32,7 @@ Pуthоn iѕ a high-level programming lаnguаgе. It iѕ quite еаѕу tо lе
 
 ---
 
-#### Technologies
+#### Technologi
 
 - Technology 1
 - Technology 2
