@@ -19,6 +19,16 @@ Pуthоn iѕ a high-level programming lаnguаgе. It iѕ quite еаѕу tо lе
 
 ### What you'll learn
 
+>
+- How to get up and running with Python
+- Learn how to use Spyder and Jupyter Notebook
+- Understand the basics of programming in Python
+- Learn about variables, identifiers and operators
+- Explore Python’s object types such as numbers, lists, and dictionaries
+- Learn how to use conditional statements
+- Learn how to use loops and create functions
+- Understand the Numpy Module
+
 
 ---
 
