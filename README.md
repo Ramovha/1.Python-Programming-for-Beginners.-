@@ -3,8 +3,8 @@
 ### Table of Contents
 You're sections headers will be used to reference location of destination.
 
-- [Description](#course-description)
-- [How To Use](#What-you'll-learn)
+- [Course Description](#course-description)
+- [What you'll learn](#What-you'll-learn)
 - [References](#references)
 - [License](#license)
 - [Author Info](#author-info)
