@@ -17,7 +17,7 @@ Pуthоn iѕ a high-level programming lаnguаgе. It iѕ quite еаѕу tо lе
 
 ---
 
-### What you'll learn
+## What you'll learn
 
 >
 - How to get up and running with Python
