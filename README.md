@@ -1,3 +1,6 @@
+# Python Programming for Beginners.
+
+>The following notes and exercises are for the  [Python Programming for Beginners](https://www.udemy.com/course/python-programming-course/) course on Udemy 
 
 ### Table of Contents
 You're sections headers will be used to reference location of destination.
