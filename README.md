@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 9a8bfa08a7acd7e41defe2a8e0dc981842d413d0
 # Python Programming for Beginners.
 
 ### Table of Contents
@@ -96,4 +100,9 @@ SOFTWARE.
 
 [Back To The Top](#read-me-template)
 =======
+<<<<<<< HEAD
 
+=======
+# 1.Python-Programming-for-Beginners.-
+>>>>>>> 29acb032435a1059356dfa59545a291fe1ee797e
+>>>>>>> 9a8bfa08a7acd7e41defe2a8e0dc981842d413d0
