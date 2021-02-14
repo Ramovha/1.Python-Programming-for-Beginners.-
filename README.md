@@ -4,7 +4,7 @@
 You're sections headers will be used to reference location of destination.
 
 - [Course Description](#course-description)
-- [What you'll learn](#What-you'll-learn)
+- [What you'll learn](#What-you-will-learn)
 - [References](#references)
 - [License](#license)
 - [Author Info](#author-info)
@@ -17,7 +17,7 @@ Pуthоn iѕ a high-level programming lаnguаgе. It iѕ quite еаѕу tо lе
 
 ---
 
-## What you'll learn
+## What you will learn
 
 >
 - How to get up and running with Python
